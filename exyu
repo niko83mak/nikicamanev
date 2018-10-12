@@ -1,28 +1,34 @@
-
-#EXTM3U
-EXTINF:-1,EX-YU: Sport club 2
-http://185.59.220.134:8080/sk2/mpegts
-EXTINF:-1,EX-YU: Sport club 3
-http://185.59.220.134:8080/sk3/mpegts
-EXTINF:-1,EX-YU: Sport club 4
-http://185.59.220.134:8080/sk4/mpegts
-EXTINF:-1,EX-YU: Sport club 5
-http://185.59.220.134:8080/sk5/mpegts
-EXTINF:-1,EX-YU: Sport club 6
-http://185.59.220.134:8080/sk6/mpegts
-EXTINF:-1,EX-YU: Arena sport 1
-http://185.59.220.134:8080/arena1/mpegts
-EXTINF:-1,EX-YU: Arena sport 2
-http://185.59.220.134:8080/arena2/mpegts
-EXTINF:-1,EX-YU: Arena sport 3
-http://185.59.220.134:8080/arena3/mpegts
-EXTINF:-1,EX-YU: Arena sport 4
-http://185.59.220.134:8080/arena4/mpegts
-EXTINF:-1,EX-YU: Arena sport 5
-http://185.59.220.134:8080/arena5/mpegts
-EXTINF:-1,EX-YU: Arena1
-http://5.135.92.130:36523/out/u/484_1.m3u8
-EXTINF:-1,EX-YU: Arena2
-http://5.135.92.130:36523/out/u/487_2.m3u8
-EXTINF:-1,EX-YU: Arena3
-http://5.135.92.130:36523/out/u/490_2.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://1connect.dyndns.ws:8008/live/nesko/654321/69.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://1connect.dyndns.ws:8008/live/nesko/654321/41.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://1connect.dyndns.ws:8008/live/nesko/654321/51.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://1connect.dyndns.ws:8008/live/nesko/654321/70.ts
+#EXTINF:-1,Arena Sport 1
+http://1connect.dyndns.ws:8008/live/nesko/654321/59.ts
+#EXTINF:-1,Arena Sport 2
+http://1connect.dyndns.ws:8008/live/nesko/654321/64.ts
+#EXTINF:-1,Arena Sport 3
+http://1connect.dyndns.ws:8008/live/nesko/654321/58.ts
+#EXTINF:-1,Arena Sport 4
+http://1connect.dyndns.ws:8008/live/nesko/654321/61.ts
+#EXTINF:-1,Arena Sport 5
+http://1connect.dyndns.ws:8008/live/nesko/654321/65.ts
+#EXTINF:-1,Sport Klub 1
+http://1connect.dyndns.ws:8008/live/nesko/654321/100.ts
+#EXTINF:-1,Sport Klub 2
+http://1connect.dyndns.ws:8008/live/nesko/654321/99.ts
+#EXTINF:-1,Sport Klub 3
+http://1connect.dyndns.ws:8008/live/nesko/654321/98.ts
+#EXTINF:-1,SportKlub 4
+http://1connect.dyndns.ws:8008/live/nesko/654321/295.ts
+#EXTINF:-1,EuroSport 1
+http://1connect.dyndns.ws:8008/live/nesko/654321/63.ts
+#EXTINF:-1,EuroSport 2
+http://1connect.dyndns.ws:8008/live/nesko/654321/84.ts
+#EXTINF:-1,Bein Sports 1
+http://1connect.dyndns.ws:8008/live/nesko/654321/42.ts
+#EXTINF:-1,Bein Sports 2
+http://1connect.dyndns.ws:8008/live/nesko/654321/43.ts
